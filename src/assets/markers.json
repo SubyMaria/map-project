@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "title": "Central Park Hotel",
+    "description": "5-star luxury hotel",
+    "lat": 40.785091,
+    "lng": -73.968285,
+    "category": "hotel",
+    "image": "hotel.png",
+    "price": 300,
+    "rating": 4.8
+  },
+  {
+    "id": 2,
+    "title": "Pizza Paradise",
+    "description": "Best pizza in town",
+    "lat": 40.758896,
+    "lng": -73.98513,
+    "category": "restaurant",
+    "image": "food.png",
+    "price": 20,
+    "rating": 4.5
+  },
+  {
+    "id": 3,
+    "title": "Liberty Lookout",
+    "description": "Scenic viewpoint with Statue of Liberty views",
+    "lat": 40.689247,
+    "lng": -74.044502,
+    "category": "tourist",
+    "image": "liberty.png",
+    "price": 0,
+    "rating": 4.9
+  },
+  {
+    "id": 4,
+    "title": "Brooklyn Deli",
+    "description": "Authentic New York sandwiches and bagels",
+    "lat": 40.678178,
+    "lng": -73.944158,
+    "category": "restaurant",
+    "image": "food.png",
+    "price": 15,
+    "rating": 4.2
+  },
+  {
+    "id": 5,
+    "title": "Empire Suites",
+    "description": "Modern luxury hotel in Midtown Manhattan",
+    "lat": 40.748817,
+    "lng": -73.985428,
+    "category": "hotel",
+    "image": "hotel.png",
+    "price": 400,
+    "rating": 4.7
+  },
+  {
+    "id": 6,
+    "title": "Times Square Tours",
+    "description": "Guided walking tours through NYC's heart",
+    "lat": 40.758,
+    "lng": -73.9855,
+    "category": "tourist",
+    "image": "tour.png",
+    "price": 50,
+    "rating": 4.6
+  },
+  {
+    "id": 7,
+    "title": "Metropolitan Art Museum",
+    "description": "World-renowned art and cultural exhibitions",
+    "lat": 40.779437,
+    "lng": -73.963244,
+    "category": "tourist",
+    "image": "museum.png",
+    "price": 25,
+    "rating": 4.9
+  },
+  {
+    "id": 8,
+    "title": "High Line Cafe",
+    "description": "Cafe with rooftop views over the High Line",
+    "lat": 40.748,
+    "lng": -74.0048,
+    "category": "restaurant",
+    "image": "food.png",
+    "price": 35,
+    "rating": 4.3
+  },
+  {
+    "id": 9,
+    "title": "SoHo Stay",
+    "description": "Boutique hotel in the SoHo shopping district",
+    "lat": 40.7233,
+    "lng": -74.002,
+    "category": "hotel",
+    "image": "hotel.png",
+    "price": 280,
+    "rating": 4.4
+  },
+  {
+    "id": 10,
+    "title": "Bronx Zoo Adventure",
+    "description": "One of the largest zoos in the United States",
+    "lat": 40.8506,
+    "lng": -73.8769,
+    "category": "tourist",
+    "image": "zoo.png",
+    "price": 30,
+    "rating": 4.7
+  }
+]
